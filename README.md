@@ -7,6 +7,7 @@ Knowledges
 - Installing SQLite from [Lazy Programmer Channel](https://www.youtube.com/watch?v=w7-oOIRIhiQ)
 - Activating Environment from [Stack Overflow Page](https://stackoverflow.com/questions/39934906/installed-virtualenv-and-activating-virtualenv-doesnt-work/39936492)
 - Creating an admin user from [django Foundation Page](https://docs.djangoproject.com/en/1.8/intro/tutorial02/)
+- Remove Python caches and temporary files from [PyPI Page](https://pypi.org/project/cleanpy/)
 
 **Note :**  
 Admin Page on Project  
